@@ -1,4 +1,4 @@
-print('welcome to tax calculator machin')
+print('welcome to tax calculator mochin')
 x = int(input('please enter income number ='))
 if x<=1000:
     
